@@ -1,0 +1,9 @@
+GROUP_NAME = 'azure group name'
+VM_NAME = 'azure vm name'
+
+AZURE_TENANT_ID= ''
+AZURE_CLIENT_ID= ''
+AZURE_CLIENT_SECRET = ''
+AZURE_SUBSCRIPTION_ID = ''
+
+DISCORD_SECRET =''

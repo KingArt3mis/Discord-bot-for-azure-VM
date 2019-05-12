@@ -1,2 +1,2 @@
 # Discord-bot-for-azure-VM
-Discord bot to control azure vm
+My simple discord bot to control my azure vm.
